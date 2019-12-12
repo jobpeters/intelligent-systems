@@ -1,9 +1,0 @@
-[submodule "expert-systems"]
-	path = expert-systems
-	url = https://github.com/jobpeters/expert-systems.git
-    branch = master
-
-[submodule "fuzzy-logic"]
-	path = fuzzy-logic
-	url = https://github.com/jobpeters/fuzzy-logic.git
-	branch = master
