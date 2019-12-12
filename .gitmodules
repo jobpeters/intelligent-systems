@@ -1,0 +1,6 @@
+[submodule "expert-systems"]
+	path = expert-systems
+	url = https://github.com/jobpeters/expert-systems
+[submodule "fuzzy-logic"]
+	path = fuzzy-logic
+	url = https://github.com/jobpeters/fuzzy-logic
